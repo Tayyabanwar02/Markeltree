@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "thumb": "service-1.png",
+        "thumbLink": "project-details",
+        "title": "Machine Automation",
+        "shortDesc": "Corporate restructuring an the refers to the process a of and reorganizin,ze"
+    },
+    {
+        "id": 2,
+        "thumb": "service-2.png",
+        "thumbLink": "project-details",
+        "title":  "Blockchain Development",
+        "shortDesc": "Corporate restructuring an the refers to the process a of and reorganizin,ze"
+    },
+    {
+        "id": 3,
+        "thumb": "service-3.png",
+        "thumbLink": "project-details",
+        "title":  "AI Automation",
+        "shortDesc": "Corporate restructuring an the refers to the process a of and reorganizin,ze"
+    },
+    {
+        "id": 4,
+        "thumb": "service-4.png",
+        "thumbLink": "project-details",
+        "title":  "Vector Creator",
+        "shortDesc": "Corporate restructuring an the refers to the process a of and reorganizin,ze"
+    },
+    {
+        "id": 5,
+        "thumb": "service-5.png",
+        "thumbLink": "project-details",
+        "title":  "NFT Creator",
+        "shortDesc": "Corporate restructuring an the refers to the process a of and reorganizin,ze"
+    },
+    {
+        "id": 6,
+        "thumb": "service-6.png",
+        "thumbLink": "project-details",
+        "title":  "Data Creators",
+        "shortDesc": "Corporate restructuring an the refers to the process a of and reorganizin,ze"
+    }
+]

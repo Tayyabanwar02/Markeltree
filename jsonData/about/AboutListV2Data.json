@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "icon": "fa-solid fa-angles-right",
+        "listItem": "Present with fast solutions for intricate details that are uncompromising."
+    },
+    {
+        "id": 2,
+        "icon": "fa-solid fa-angles-right",
+        "listItem": "UX / UI designers to make your applications intuitively eye-pulling."
+    },
+    {
+        "id": 3,
+        "icon": "fa-solid fa-angles-right",
+        "listItem": "Full-fledged Coders to save your business from complex cyber hazards."
+    }
+]

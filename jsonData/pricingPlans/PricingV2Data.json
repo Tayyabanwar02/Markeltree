@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "sub_title": "Starter",
+    "title": "AI Blueprint",
+    "price": {
+      "currency": "$",
+      "price": "149",
+      "under_dot": "99",
+      "price_desc": "/mo"
+    },
+    "list": [
+      {
+        "icon": "fa-light fa-check",
+        "text": " Full blueprint of your AI app"
+      },
+      {
+        "icon": "fa-light fa-check",
+        "text": " Scope of Work (SOW)"
+      },
+      {
+        "icon": "fa-light fa-check",
+        "text": "Wireframes & user journey flows"
+      },
+      {
+        "icon": "fa-light fa-check",
+        "text": " Features list and product roadmap"
+      },
+      {
+        "icon": "fa-light fa-check",
+        "text": "Technology stack recommendation"
+      },
+      {
+        "icon": "fa-thin fa-xmark",
+        "text": "Custom development not included"
+      },
+      {
+        "icon": "fa-thin fa-xmark",
+        "text": "Change request support not applicable"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sub_title": "Professional",
+    "title": "AI Consulting",
+    "price": {
+   "currency": "$",
+      "price": "149",
+      "under_dot": "99",
+      "price_desc": "/mo"
+    },
+    "list": [
+      {
+        "icon": "fa-light fa-check",
+        "text": " Full project delivery under a locked scope"
+      },
+      {
+        "icon": "fa-light fa-check",
+        "text": "Custom architecture and AI model design"
+      },
+      {
+        "icon": "fa-light fa-check",
+        "text": "Technical documentation & implementation"
+      },
+      {
+        "icon": "fa-light fa-check",
+        "text": "Support for scoped features and functionality"
+      },
+      {
+        "icon": "fa-light fa-check",
+        "text": "Change requests priced via Level of Effort (LOE)"
+      },
+      {
+        "icon": "fa-thin fa-xmark",
+        "text": " Resource pool not included"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "sub_title": "Enterprise",
+    "title": " AI Resource Pool",
+    "price": {
+      "currency": "$",
+      "price": "149",
+      "under_dot": "99",
+      "price_desc": "/mo"
+    },
+    "list": [
+      {
+        "icon": "fa-light fa-check",
+        "text": "Full-time dedicated resource(s) (160 hrs/month)"
+      },
+      {
+        "icon": "fa-light fa-check",
+        "text": " Weekly progress tracking & updates"
+      },
+      {
+        "icon": "fa-light fa-check",
+        "text": " NDA & IP protection"
+      },
+      {
+        "icon": "fa-light fa-check",
+        "text": "Unlimited change requests included"
+      },
+      {
+        "icon": "fa-light fa-check",
+        "text": " Flexible scaling — add or remove team members as needed"
+      }
+     
+    ]
+  }
+]

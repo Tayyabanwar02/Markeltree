@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "thumb": "cloud.png",
+        "title": "Blockchain Development ",
+        "text": "On the basis of decentralized infrastructure, we provide you with Web3 contract development, tokenization ecosystem, and corporate DLT architecture depending on the client's brief. "
+    },
+    {
+        "id": 2,
+        "thumb": "ebene.png",
+        "title": "Software Solutions",
+        "text": "Giving the public our veteran skill sets regarding application modernization, along with particular industry-oriented digital toolkits. "
+    },
+    {
+        "id": 3,
+        "thumb": "api.png",
+        "title": "Mobile Application Development",
+        "text": "Concerning front-end development for mobile applications, we deliver reconstructed as well as new and original apps from your fresh ideas using React Native, Flutter, Swift, etc."
+    },
+    {
+        "id": 4,
+        "thumb": "desktop.png",
+        "title": "Game Development",
+        "text": "Making virtually stimulating and mentally competitive entertainment from our services is processed with Unity, eDOT, and Unreal Engine."
+    },
+    {
+        "id": 5,
+        "thumb": "desktop.png",
+        "title": "Custom Web Application",
+        "text": "Producing visually breathtaking design and smooth user interface that is seamlessly functional and pulls organic leads like a magnet."
+    }
+]

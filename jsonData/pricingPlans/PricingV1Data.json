@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "sub_title": "Starter",
+    "title": "AI Essentials",
+    "price": {
+      "currency": "$",
+      "price": "29",
+      "under_dot": "99",
+      "price_desc": "/mo"
+    },
+    "list": [
+      { "icon": "fa-light fa-check", "text": "Access to pre-trained models" },
+      { "icon": "fa-light fa-check", "text": "Basic API usage (5k req/mo)" },
+      { "icon": "fa-light fa-check", "text": "Email support" },
+      { "icon": "fa-thin fa-xmark", "text": "Custom model training" },
+      { "icon": "fa-thin fa-xmark", "text": "Priority support" },
+      { "icon": "fa-thin fa-xmark", "text": "AI workflow automation tools" }
+    ]
+  },
+  {
+    "id": 2,
+    "sub_title": "Professional",
+    "title": "AI Pro",
+    "price": {
+      "currency": "$",
+      "price": "149",
+      "under_dot": "99",
+      "price_desc": "/mo"
+    },
+    "list": [
+      { "icon": "fa-light fa-check", "text": "Access to all pre-trained models" },
+      { "icon": "fa-light fa-check", "text": "Advanced API usage (100k req/mo)" },
+      { "icon": "fa-light fa-check", "text": "Custom model training" },
+      { "icon": "fa-light fa-check", "text": "Slack community support" },
+      { "icon": "fa-thin fa-xmark", "text": "Dedicated AI consultant" },
+      { "icon": "fa-thin fa-xmark", "text": "On-premise deployment options" }
+    ]
+  },
+  {
+    "id": 3,
+    "sub_title": "Enterprise",
+    "title": "AI Scale",
+    "price": {
+      "currency": "$",
+      "price": "399",
+      "under_dot": "99",
+      "price_desc": "/mo"
+    },
+    "list": [
+      { "icon": "fa-light fa-check", "text": "Unlimited API usage" },
+      { "icon": "fa-light fa-check", "text": "Custom & fine-tuned models" },
+      { "icon": "fa-light fa-check", "text": "Dedicated AI consultant" },
+      { "icon": "fa-light fa-check", "text": "On-premise deployment" },
+      { "icon": "fa-light fa-check", "text": "24/7 priority support" },
+      { "icon": "fa-light fa-check", "text": "Enterprise-grade SLAs" }
+    ]
+  }
+]

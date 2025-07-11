@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "accordionId": "headingOne",
+        "accordionClass": "",
+        "dataBsTarget": "#collapseOne",
+        "ariaExpanded": "true",
+        "ariaControls": "collapseOne",
+        "title": "1. What is the latest technology trend in the IT industry?",
+        "collapseClass": "show",
+        "text": "It is a long established fact that a reader will be distracted by the readable content of ajli page when looking at its layout. Lorem Ipsum is simply"
+    },
+    {
+        "id": 2,
+        "accordionId": "headingTwo",
+        "accordionClass": "collapsed",
+        "dataBsTarget": "#collapseTwo",
+        "ariaExpanded": "false",
+        "ariaControls": "collapseTwo",
+        "title": "2. What are some common cybersecurity businesses face?",
+        "collapseClass": "",
+        "text": "It is a long established fact that a reader will be distracted by the readable content of ajli page when looking at its layout. Lorem Ipsum is simply"
+    },
+    {
+        "id": 3,
+        "accordionId": "headingThree",
+        "accordionClass": "collapsed",
+        "dataBsTarget": "#collapseThree",
+        "ariaExpanded": "false",
+        "ariaControls": "collapseThree",
+        "title": "3. How can IT services benefit my business?",
+        "collapseClass": "",
+        "text": "It is a long established fact that a reader will be distracted by the readable content of ajli page when looking at its layout. Lorem Ipsum is simply"
+    },
+    {
+        "id": 4,
+        "accordionId": "headingFour",
+        "accordionClass": "collapsed",
+        "dataBsTarget": "#collapseFour",
+        "ariaExpanded": "false",
+        "ariaControls": "collapseFour",
+        "title": "4. What is cloud computing, and it benefit my business?",
+        "collapseClass": "",
+        "text": "It is a long established fact that a reader will be distracted by the readable content of ajli page when looking at its layout. Lorem Ipsum is simply"
+    }
+    
+]
