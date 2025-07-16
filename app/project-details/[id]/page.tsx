@@ -1,6 +1,6 @@
 "use client";
 import React from 'react';
-import BreadCrumb from '@/components/breadcrumb/BreadCrumb';
+import { BreadCrumb } from '@/components/breadcrumb/BreadCrumb';
 import ProjectDetailsContent from '@/components/project/ProjectDetailsContent';
 import { useParams } from 'next/navigation';
 import ProjectV1Data from '@/jsonData/project/ProjectV1Data.json'

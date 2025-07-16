@@ -31,8 +31,8 @@ export default function HeroVideo() {
             style={{
               position: "sticky",
               top: 0,
-              height: "100%",
-              width: "100%",
+               width: "100%",
+                height: "90%",
               overflow: "hidden",
               zIndex: 0,
               borderRadius: "1rem",

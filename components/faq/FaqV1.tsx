@@ -19,11 +19,11 @@ const FaqV1 = () => {
                                     <div>
                                         <span className="short-title only-divider">Faq Message</span>
                                     </div>
-                                    <h2 className="title">Leading the way in your <br/> innovation AI</h2>
+                                    <h2 className="title">Forming Pathways Towards Ultramodern AI
+</h2>
                                 </div>
                                 <div className="te-section-desc">
-                                    <p>It is a long established fact that a reader will be distracted by the readable
-                                        content of a page when looking at its layout. The point of using Lorem </p>
+                                    <p>As you stumble deeper into our distinct categories of services, you may require some common questions to be answered. Hence, we answer each updated question from our customers.</p>
                                 </div>
                             </div>
                         </div>
@@ -55,7 +55,7 @@ const FaqV1 = () => {
                             <div className="image-card">
                                 <Image
                                     className="tilt-animate"
-                                    src="/images/faq/image-1.jpg"
+                                    src="/images/faq/faq.jpg"
                                     alt="Image"
                                     width={420}
                                     height={450}

@@ -2,19 +2,19 @@
     {
         "id": 1,
         "icon": "icon-1.png",
-        "title": "Plan",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore go"
+        "title": "Deduct and Plan Out",
+        "text": "We hear your next idea, grasp your business requirements, and draw up our strategy as we manage our technical resources after our assessment."
     },
     {
         "id": 2,
         "icon": "icon-2.png",
-        "title": "Polish",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore go"
+        "title": "Craft And Conceptualize ",
+        "text": "Our company partakes in making eye-catching designs and safeguard protection, resulting in trustworthy growth potential for tomorrow with a swift workflow."
     },
     {
         "id": 3,
         "icon": "icon-3.png",
-        "title": "Prototype",
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore go"
+        "title": "Set-up And Expand",
+        "text": "To top it off, we release your product with well-managed and aggravate its maturing stages depending on the updated improvements during the current times."
     }
 ]

@@ -4,3 +4,10 @@
 @import 'react-modal-video/css/modal-video.css';
 @import '@/styles/fontawesome.min.css';
 @import '@/styles/style.css';
+
+.about-page-bg {
+  background-image: url('/images/background/about-cover.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

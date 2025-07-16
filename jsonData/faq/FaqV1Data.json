@@ -6,9 +6,9 @@
         "dataBsTarget": "#collapseOne",
         "ariaExpanded": "true",
         "ariaControls": "collapseOne",
-        "title": "1. What is the latest technology trend in the IT industry?",
+        "title": "1. What forms of Custom Web Application Development does Markleltree provide? ",
         "collapseClass": "show",
-        "text": "It is a long established fact that a reader will be distracted by the readable content of ajli page when looking at its layout. Lorem Ipsum is simply"
+        "text": " Markeltrees gets to execute start-to-finish software solutions to your firm’s needs, including SaaS framework, software enterprises, or back-office applications in order to optimize performance and stimulate profitable expansion."
     },
     {
         "id": 2,
@@ -17,9 +17,9 @@
         "dataBsTarget": "#collapseTwo",
         "ariaExpanded": "false",
         "ariaControls": "collapseTwo",
-        "title": "2. What are some common cybersecurity businesses face?",
+        "title": "2. How will AI App Development benefit my corporation? ",
         "collapseClass": "",
-        "text": "It is a long established fact that a reader will be distracted by the readable content of ajli page when looking at its layout. Lorem Ipsum is simply"
+        "text": "With our Artificial Intelligence development expertise based on machine learning, NLP, and computer vision, we craft intelligent apps that automate program execution, elevate the usage experience, and give analytics-based operations that will aid in selection."
     },
     {
         "id": 3,
@@ -28,9 +28,9 @@
         "dataBsTarget": "#collapseThree",
         "ariaExpanded": "false",
         "ariaControls": "collapseThree",
-        "title": "3. How can IT services benefit my business?",
+        "title": "3. What is Custom Software Development, and how does Markeltree target it?s",
         "collapseClass": "",
-        "text": "It is a long established fact that a reader will be distracted by the readable content of ajli page when looking at its layout. Lorem Ipsum is simply"
+        "text": "Regarding web and application development procedure, this revolves around making browser-oriented results from the ground up. As well as how Markeltree brings a smooth user interface design with fast-reactive builds. At the same time, there is a protective and indeed proves to be a made-to-order architecture. "
     },
     {
         "id": 4,
@@ -39,9 +39,20 @@
         "dataBsTarget": "#collapseFour",
         "ariaExpanded": "false",
         "ariaControls": "collapseFour",
-        "title": "4. What is cloud computing, and it benefit my business?",
+        "title": "4.What technical systems does Markeltree utilize as a Game Development Company?",
         "collapseClass": "",
-        "text": "It is a long established fact that a reader will be distracted by the readable content of ajli page when looking at its layout. Lorem Ipsum is simply"
+        "text": " When it comes to producing virtual forms of sports, Markeltree proceeds with updated modern tools such as Web3, Unreal Engine, and Unity, meant for fun, entertainment, educational purposes, and immersive engagement."
+    },
+    {
+        "id": 5,
+        "accordionId": "headingFive",
+        "accordionClass": "collapsed",
+        "dataBsTarget": "#collapseFive",
+        "ariaExpanded": "false",
+        "ariaControls": "collapseFive",
+        "title": "5. In what way does Markeltree intermix Blockchain Development into business perks?",
+        "collapseClass": "",
+        "text": " To implement warranted mainnet-related software, our company mingles with manufacturers in medical, economics, and supply lines. Therefore, capitalizing on tokenization and tokening to assemble seamless operations and further cost reduction."
     }
     
 ]

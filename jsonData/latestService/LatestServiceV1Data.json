@@ -1,32 +1,131 @@
 [
     {
         "id": 1,
-        "thumb": "cloud.png",
-        "title": "Blockchain Development ",
-        "text": "On the basis of decentralized infrastructure, we provide you with Web3 contract development, tokenization ecosystem, and corporate DLT architecture depending on the client's brief. "
+        "thumb": "/images/icon/latest-service/cloud.png",
+        "icon": "/images/icon/info-card/v-3/icon-1.png",
+        "image": "/images/services/blockchain-dev.jpg",
+        "title": "Blockchain Development",
+        "category": "Blockchain Solutions",
+        "description": "On the basis of decentralized infrastructure, we provide you with Web3 contract development, tokenization ecosystem, and corporate DLT architecture depending on the client's brief.",
+        "text": "On the basis of decentralized infrastructure, we provide you with Web3 contract development, tokenization ecosystem, and corporate DLT architecture depending on the client's brief.",
+        "backgroundImage": "/images/background/blockchain-cover.jpg",
+        "features": [
+            "Smart Contract Development",
+            "DeFi Solutions",
+            "NFT Marketplace Development",
+            "Blockchain Consulting",
+            "Private Blockchain Networks"
+        ],
+        "benefits": [
+            "Enhanced Security and Transparency",
+            "Reduced Operational Costs",
+            "Immutable Record Keeping",
+            "Decentralized Operations",
+            "Automated Compliance"
+        ],
+        "process": [
+            {
+                "title": "Requirements Analysis",
+                "description": "Understanding your blockchain needs and objectives"
+            },
+            {
+                "title": "Architecture Design",
+                "description": "Creating the perfect blockchain solution architecture"
+            },
+            {
+                "title": "Development",
+                "description": "Building secure and efficient blockchain solutions"
+            },
+            {
+                "title": "Testing & Deployment",
+                "description": "Ensuring everything works flawlessly"
+            }
+        ]
     },
     {
         "id": 2,
-        "thumb": "ebene.png",
+        "thumb": "/images/icon/latest-service/ebene.png",
+        "icon": "/images/icon/info-card/v-3/icon-2.png",
+        "image": "/images/services/software-dev.jpg",
         "title": "Software Solutions",
-        "text": "Giving the public our veteran skill sets regarding application modernization, along with particular industry-oriented digital toolkits. "
+        "category": "Software Development",
+        "description": "Giving the public our veteran skill sets regarding application modernization, along with particular industry-oriented digital toolkits.",
+        "text": "Giving the public our veteran skill sets regarding application modernization, along with particular industry-oriented digital toolkits.",
+        "backgroundImage": "/images/background/software-cover.jpg",
+        "features": [
+            "Custom Software Development",
+            "Enterprise Solutions",
+            "Cloud Integration",
+            "Legacy System Modernization",
+            "API Development"
+        ],
+        "benefits": [
+            "Increased Efficiency",
+            "Scalable Solutions",
+            "Cost-Effective Operations",
+            "Enhanced User Experience",
+            "Better Data Management"
+        ],
+        "process": [
+            {
+                "title": "Discovery",
+                "description": "Understanding your business needs"
+            },
+            {
+                "title": "Planning",
+                "description": "Creating detailed project roadmap"
+            },
+            {
+                "title": "Development",
+                "description": "Building your custom software solution"
+            },
+            {
+                "title": "Deployment",
+                "description": "Launching and maintaining your software"
+            }
+        ]
     },
     {
         "id": 3,
-        "thumb": "api.png",
+        "thumb": "/images/icon/latest-service/api.png",
+        "icon": "/images/icon/info-card/v-3/icon-3.png",
+        "image": "/images/services/mobile-dev.jpg",
         "title": "Mobile Application Development",
-        "text": "Concerning front-end development for mobile applications, we deliver reconstructed as well as new and original apps from your fresh ideas using React Native, Flutter, Swift, etc."
-    },
-    {
-        "id": 4,
-        "thumb": "desktop.png",
-        "title": "Game Development",
-        "text": "Making virtually stimulating and mentally competitive entertainment from our services is processed with Unity, eDOT, and Unreal Engine."
-    },
-    {
-        "id": 5,
-        "thumb": "desktop.png",
-        "title": "Custom Web Application",
-        "text": "Producing visually breathtaking design and smooth user interface that is seamlessly functional and pulls organic leads like a magnet."
+        "category": "Mobile Development",
+        "description": "Concerning front-end development for mobile applications, we deliver reconstructed as well as new and original apps from your fresh ideas using React Native, Flutter, Swift, etc.",
+        "text": "Concerning front-end development for mobile applications, we deliver reconstructed as well as new and original apps from your fresh ideas using React Native, Flutter, Swift, etc.",
+        "backgroundImage": "/images/background/mobile-cover.jpg",
+        "features": [
+            "Cross-Platform Development",
+            "Native App Development",
+            "UI/UX Design",
+            "App Store Optimization",
+            "Mobile App Testing"
+        ],
+        "benefits": [
+            "Wider Market Reach",
+            "Better User Engagement",
+            "Increased Brand Visibility",
+            "Improved Customer Service",
+            "Higher ROI"
+        ],
+        "process": [
+            {
+                "title": "Strategy",
+                "description": "Defining your app's purpose and features"
+            },
+            {
+                "title": "Design",
+                "description": "Creating intuitive user interfaces"
+            },
+            {
+                "title": "Development",
+                "description": "Building your mobile application"
+            },
+            {
+                "title": "Testing & Launch",
+                "description": "Ensuring quality and successful deployment"
+            }
+        ]
     }
 ]

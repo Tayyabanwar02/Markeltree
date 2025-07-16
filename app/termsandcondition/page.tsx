@@ -2,7 +2,7 @@
 
 import React from "react";
 import ClientLayout from "@/components/layouts/ClientLayout";
-import BreadCrumb from "@/components/breadcrumb/BreadCrumb";
+import { BreadCrumb } from "@/components/breadcrumb/BreadCrumb";
 import TermsAndCondition from "@/components/termsandcondition/termsandcondition";
 
 const TermsAndConditionPage = () => {

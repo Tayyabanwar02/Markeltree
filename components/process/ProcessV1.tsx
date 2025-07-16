@@ -23,7 +23,7 @@ const ProcessV1 = () => {
                                         <div>
                                             <span className="short-title">Work process</span>
                                         </div>
-                                        <h2 className="title">Transforming <br/> businesses with AI</h2>
+                                        <h2 className="title">Maximize Business <br /> Potential With AI</h2>
                                     </div>
                                 </div>
                         </motion.div>

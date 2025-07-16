@@ -2,7 +2,7 @@
     {
         "id": 1,
         "date": "30 May 2024",
-        "thumb": "l1.jpg",
+        "thumb": "/images/icon/v-2/l1.jpg",
         "author": "admin",
         "comments": "05",
         "title": "Transforming your business with technology",
@@ -13,7 +13,7 @@
     {
         "id": 2,
         "date": "30 May 2024",
-        "thumb": "l2.jpg",
+        "thumb": "/images/icon/v-2/l2.jpg",
         "author": "admin",
         "comments": "05",
         "title": "Revolutionizing the world of technology",
@@ -24,7 +24,7 @@
     {
         "id": 3,
         "date": "30 May 2024",
-        "thumb": "l3.jpg",
+        "thumb": "/images/icon/v-2/l3.jpg",
         "author": "admin",
         "comments": "05",
         "title": "Your partner in digital transformation",

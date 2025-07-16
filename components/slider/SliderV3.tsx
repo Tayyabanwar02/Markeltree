@@ -24,14 +24,14 @@ const SliderV3 = () => {
                       Seeking to revolutionize borderless limits of creative
                       output, that is where our ideation studio delivers
                       profound services. The Markeltree goes worldwide, and not
-                      just as a reputed Google software development agency.
+                      just as a reputed Google software development agency. But to make the technical elements life style simpler and progressive.
                     </p>
                   </div>
                 </div>
                 <div className="image">
                   <Image
                     className="tilt-animate"
-                    src="/images/banner/banner-1.jpg"
+                    src="/images/banner/female-programmer-writing-programming-code-at-cozy-2025-03-13-04-21-16-utc.jpg"
                     alt="image"
                     width={415}
                     height={280}
@@ -44,7 +44,7 @@ const SliderV3 = () => {
               <div className="banner-image">
                 <Image
                   className="tilt-animate"
-                  src="/images/banner/banner-2.jpg"
+                  src="/images/banner/bb.jpg"
                   alt="image"
                   width={415}
                   height={520}
@@ -57,7 +57,7 @@ const SliderV3 = () => {
                 <div className="image">
                   <Image
                     className="tilt-animate"
-                    src="/images/banner/banner-3.jpg"
+                    src="/images/banner/bv.jpg"
                     alt="image"
                     width={400}
                     height={200}
@@ -67,7 +67,7 @@ const SliderV3 = () => {
                   <div className="content">
                     <p>
                       It is a long established fact that a reader will be
-                      distracted by the readable content.
+                      distracted by the readable content.Where there's tech and creativity, there's vision and results for the ongoing future.
                     </p>
                     <div className="btn-wrapper">
                       <Link href="/about">

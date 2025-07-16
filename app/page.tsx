@@ -1,36 +1,37 @@
 'use client';
 
+import dynamic from 'next/dynamic';
 import { Suspense } from 'react';
-import SliderV2 from '@/components/slider/SliderV2';
-import TestimonialV2 from '@/components/testimonial/TestimonialV2';
-import BlogV2 from '@/components/blog/BlogV2';
-import AboutV2 from "@/components/about/AboutV2";
-import LatestServiceV2 from "@/components/latestService/LatestServiceV2";
-import ProjectV2 from "@/components/project/ProjectV2";
-import FaqV2 from "@/components/faq/FaqV2";
-import PricingPlansStyleTwo from "@/components/pricingPlans/PricingPlansStyleTwo";
-import MarqueeSliderV1 from "@/components/marqueeSlider/MarqueeSliderV1";
-import ClientLayout from "@/components/layouts/ClientLayout";
-import HeroVideo from "@/components/hero/HeroVideo";
-import SliderV3 from '@/components/slider/SliderV3';
+
+// Dynamic imports with no SSR for client components
+const SliderV2 = dynamic(() => import('@/components/slider/SliderV2'), { ssr: false });
+const TestimonialV2 = dynamic(() => import('@/components/testimonial/TestimonialV2'), { ssr: false });
+const BlogV2 = dynamic(() => import('@/components/blog/BlogV2'), { ssr: false });
+const AboutV2 = dynamic(() => import('@/components/about/AboutV2'), { ssr: false });
+const LatestServiceV2 = dynamic(() => import('@/components/latestService/LatestServiceV2'), { ssr: false });
+const ProjectV2 = dynamic(() => import('@/components/project/ProjectV2'), { ssr: false });
+const FaqV2 = dynamic(() => import('@/components/faq/FaqV2'), { ssr: false });
+const PricingPlansStyleTwo = dynamic(() => import('@/components/pricingPlans/PricingPlansStyleTwo'), { ssr: false });
+const MarqueeSliderV1 = dynamic(() => import('@/components/marqueeSlider/MarqueeSliderV1'), { ssr: false });
+const ClientLayout = dynamic(() => import('@/components/layouts/ClientLayout'), { ssr: false });
+const HeroVideo = dynamic(() => import('@/components/hero/HeroVideo'), { ssr: false });
+const SliderV3 = dynamic(() => import('@/components/slider/SliderV3'), { ssr: false });
 
 export default function HomePage() {
     return (
-        <Suspense fallback={<div>Loading...</div>}>
+        <Suspense fallback={<div className="w-full h-screen flex items-center justify-center">Loading...</div>}>
             <ClientLayout>
-                <main>
-                    <SliderV2 />
-                    <HeroVideo />
-                    <SliderV3 />
-                    <LatestServiceV2 />
-                    <AboutV2 />
-                    <ProjectV2 style="project-style-two" partial={true} />
-                    <TestimonialV2 />
-                    <PricingPlansStyleTwo style="pricing-style-two" />
-                    <FaqV2 />
-                    <MarqueeSliderV1 />
-                    <BlogV2 />
-                </main>
+                
+                <SliderV2 />
+                <HeroVideo />
+                <AboutV2 />
+                <LatestServiceV2 />
+                <ProjectV2 />
+                <MarqueeSliderV1 />
+                <TestimonialV2 />
+                <FaqV2 />
+                <PricingPlansStyleTwo />
+                <BlogV2 />
             </ClientLayout>
         </Suspense>
     );

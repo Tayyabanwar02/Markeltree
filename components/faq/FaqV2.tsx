@@ -12,7 +12,7 @@ const FaqV2 = () => {
                     <div className="faq-image">
                         <Image
                             className="tilt-animate"
-                            src="/images/faq/image-2.jpg"
+                            src="/images/faq/faq.jpg"
                             alt="Image"
                             width={950}
                             height={800}

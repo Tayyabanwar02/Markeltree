@@ -2842,9 +2842,9 @@ body.admin-bar .te-header-menu-area.te-sticky_menu {
           justify-content: space-between; }
   @media (max-width: 1399px) {
     .te-menu-wrapper {
-      -webkit-box-pack: end;
-          -ms-flex-pack: end;
-              justify-content: end; } }
+      -webkit-box-pack: flex-end;
+          -ms-flex-pack: flex-end;
+              justify-content: flex-end; } }
 
 .te-main-menu ul {
   margin: 0;
@@ -3364,8 +3364,6 @@ body.admin-bar .te-header-menu-area.te-sticky_menu {
       font-size: 100px;
       font-weight: 700;
       line-height: initial;
-      padding-top: 250px;
-    padding-bottom: 200px;
       letter-spacing: -2.52px; }
       @media only screen and (min-width: 0px) and (max-width: 767px) {
         .banner-area.style-2 .te-section-title .title {
@@ -3803,9 +3801,9 @@ body.admin-bar .te-header-menu-area.te-sticky_menu {
     display: flex;
     -ms-flex-negative: 0;
         flex-shrink: 0;
-    -webkit-box-pack: start;
-        -ms-flex-pack: start;
-            justify-content: start;
+    -webkit-box-pack: flex-start;
+        -ms-flex-pack: flex-start;
+            justify-content: flex-start;
     width: 65px;
     height: 65px;
     border-radius: 20px;
@@ -3886,9 +3884,9 @@ body.admin-bar .te-header-menu-area.te-sticky_menu {
       display: -webkit-box;
       display: -ms-flexbox;
       display: flex;
-      -webkit-box-pack: start;
-          -ms-flex-pack: start;
-              justify-content: start; }
+      -webkit-box-pack: flex-start;
+          -ms-flex-pack: flex-start;
+              justify-content: flex-start; }
       .te-info-card .content .te-read-more .te-theme-btn {
         background-color: transparent;
         color: #02C173;
@@ -6315,9 +6313,9 @@ body.admin-bar .te-header-menu-area.te-sticky_menu {
   -webkit-box-pack: justify;
       -ms-flex-pack: justify;
           justify-content: space-between;
-  -webkit-box-align: end;
-      -ms-flex-align: end;
-          align-items: end;
+  -webkit-box-align: flex-end;
+      -ms-flex-align: flex-end;
+          align-items: flex-end;
   margin-bottom: 60px;
   gap: 24px; }
   @media only screen and (min-width: 0px) and (max-width: 767px) {
@@ -9289,7 +9287,7 @@ ul.children {
                 flex-direction: column;
         -webkit-box-align: start;
             -ms-flex-align: start;
-                align-items: start;
+                align-items: flex-start;
         gap: 30px; } }
   .te-footer-widget.te_widget_nav_menu ul, .te-footer-widget.widget_nav_menu ul {
     margin-top: -5px;
@@ -9739,4 +9737,3 @@ ul.children {
 
 
 /*# sourceMappingURL=style.css.map */
-/* Base hidden position */

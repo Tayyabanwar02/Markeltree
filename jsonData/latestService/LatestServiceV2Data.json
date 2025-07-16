@@ -1,26 +1,54 @@
 [
     {
         "id": 1,
-        "icon": "icon-1.png",
-        "title": "Spark Mind AI",
-        "text": "One important area of ecology is consevation biology, which focuses protecting"
+        "icon": "/images/icon/info-card/v-3/icon-1.png",
+        "title": "Blockchain Development",
+        "text": "On the basis of decentralized infrastructure, we provide you with Web3 contract development, tokenization ecosystem, and corporate DLT architecture.",
+        "category": "Blockchain Solutions",
+        "description": "Blockchain technology was first linked to cryptocurrencies, but it has since been used in many other ways, making it one of the most important inventions of our time. Blockchain has a bad reputation for making it easier for fraud, uncertainty, and unregulated markets to happen. However, the technology's real promise lies in the benefits it can bring in terms of decentralization, security, and transparency. Blockchain technology is coming up with new ways to solve problems in a lot of different fields, like banking, healthcare, supply chain management, and more. It is a key part of changing to digital.",
+        "image": "/images/service/cover -2.jpg",
+        "backgroundImage": "/images/background/blockchain-cover.jpg"
+        
     },
+    
     {
         "id": 2,
-        "icon": "icon-2.png",
-        "title": "AI Forge Labs",
-        "text": "One important area of ecology is consevation biology, which focuses protecting"
+        "icon": "/images/icon/info-card/v-3/icon-2.png",
+        "title": "Game Development",
+        "text": "Creating immersive gaming experiences with cutting-edge technology and creative excellence.",
+        "category": "Game Development",
+        "description": "Our game development service combines creativity, technology, and expertise to create engaging gaming experiences across multiple platforms. From concept to launch, we handle every aspect of game development with precision and innovation.",
+        "image": "/images/background/blockchain-cover.jpg",
+        "backgroundImage": "/images/background/game-dev-bg.jpg"
     },
     {
         "id": 3,
-        "icon": "icon-3.png",
-        "title": "Synergy Sense AI",
-        "text": "One important area of ecology is consevation biology, which focuses protecting"
+        "icon": "/images/icon/info-card/v-3/icon-3.png",
+        "title": "Software Solutions",
+        "text": "Giving the public our veteran skill sets regarding application modernization, along with particular industry-oriented digital toolkits.",
+        "category": "Software Development",
+        "description": "We provide comprehensive software solutions tailored to your business needs, from custom application development to system integration and modernization.",
+        "image": "/images/service/software-dev.jpg",
+        "backgroundImage": "/images/background/software-cover.jpg"
     },
     {
         "id": 4,
-        "icon": "icon-4.png",
-        "title": "Think Ahead AI",
-        "text": "One important area of ecology is consevation biology, which focuses protecting"
+        "icon": "/images/icon/info-card/v-3/icon-4.png",
+        "title": "Mobile App Development",
+        "text": "Concerning front-end development for mobile applications, we deliver reconstructed as well as new and original apps using React Native, Flutter, Swift, etc.",
+        "category": "Mobile Development",
+        "description": "We create powerful, user-friendly mobile applications that help businesses connect with their customers and streamline operations.",
+        "image": "/images/service/mobile-dev.jpg",
+        "backgroundImage": "/images/background/mobile-cover.jpg"
+    },
+    {
+        "id": 5,
+        "icon": "/images/icon/info-card/v-3/icon-5.png",
+        "title": "Custom Web Development",
+        "text": "We create powerful, user-friendly mobile applications that help businesses connect with their customers and streamline operations.",
+        "category": "Web Development",
+        "description": "Our web development service focuses on creating responsive, scalable, and secure websites that enhance user experience and drive business growth.",
+        "image": "/images/service/web-dev.jpg",
+        "backgroundImage": "/images/background/web-cover.jpg"
     }
 ]

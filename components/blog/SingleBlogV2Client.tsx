@@ -2,51 +2,61 @@
 
 import React from 'react';
 import Link from "next/link";
-import {motion} from "framer-motion";
 import Image from "next/image";
 
-type itemData = {
+interface BlogItem {
     id: number;
     date: string;
     thumb: string;
     author: string;
+    comments: string;
     title: string;
     text: string;
+    blogPostLink: string;
     btnText: string;
-    comments: string;
 }
 
-const SingleBlogV2 = ({ item, index } : { item: itemData; index: number } ) => {
-    const { id, date, thumb, author, title, text, btnText, comments } = item
-    const delay = index * 0.2;
+interface SingleBlogV2Props {
+    item: BlogItem;
+    index: number;
+}
 
+const SingleBlogV2: React.FC<SingleBlogV2Props> = ({ item, index }) => {
     return (
-        <motion.div
-            initial={{opacity: 0, y: 50}}
-            animate={{opacity: 1, y: 0}}
-            transition={{duration: 0.4, delay}}
-            className="blog-post-two wow fadeInUp"
-        >
-            <div className="blog-image">
-                <Link href={`/blog-details/${id}`}>
-                    <Image src={thumb} width={416} height={274} alt="blog" />
-                </Link>
-                <div className="blog-date">
-                    <span>{date}</span>
+        <div className="col-lg-4 col-md-6" data-aos="fade-up" data-aos-duration="1000" data-aos-delay={`${index * 100}`}>
+            <div className="te-blog style-2">
+                <div className="blog-thumb">
+                    <Link href={`/blog-details/${item.id}`}>
+                        <Image src={item.thumb} alt="blog thumb" width={416} height={289} />
+                    </Link>
+                </div>
+                <div className="blog-content">
+                    <div className="blog-meta">
+                        <ul>
+                            <li>
+                                <i className="fa-regular fa-calendar"></i>
+                                <span>{item.date}</span>
+                            </li>
+                            <li>
+                                <i className="fa-regular fa-user"></i>
+                                <span>{item.author}</span>
+                            </li>
+                            <li>
+                                <i className="fa-regular fa-comments"></i>
+                                <span>{item.comments}</span>
+                            </li>
+                        </ul>
+                    </div>
+                    <h4 className="blog-title">
+                        <Link href={`/blog-details/${item.id}`}>{item.title}</Link>
+                    </h4>
+                    <p>{item.text}</p>
+                    <Link href={`/blog-details/${item.id}`} className="read-more">
+                        {item.btnText} <i className="fa-solid fa-arrow-right"></i>
+                    </Link>
                 </div>
             </div>
-            <div className="blog-content">
-                <div className="blog-meta">
-                    <span><i className="far fa-user"/> By <Link href="#">{author}</Link></span>
-                    <span><i className="far fa-comments"/> {comments} Comments</span>
-                </div>
-                <h4 className="blog-title">
-                    <Link href={`/blog-details/${id}`}>{title}</Link>
-                </h4>
-                <p>{text}</p>
-                <Link href={`/blog-details/${id}`} className="theme-btn">{btnText} <i className="fas fa-angle-double-right"/></Link>
-            </div>
-        </motion.div>
+        </div>
     );
 };
 
